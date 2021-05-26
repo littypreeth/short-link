@@ -1,0 +1,2 @@
+DEBUG = True
+TOKEN_LEN = 6
